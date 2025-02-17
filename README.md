@@ -21,7 +21,7 @@ lista todos os backups encontrados no dispositivo.
 ```
 ### add:
 adicina um novo diretorio a lista de backup, por padrão os diretorios são,
-Documentos, Dowloades e Imanges. o paramentro caminho_do_diretorio é obrigatorio.
+Documentos, Dowloades e Imanges. o paramentro *caminho do diretorio* é obrigatorio.
 ```bash
     ~$ backup add [caminho_do_diretorio]
 ```
